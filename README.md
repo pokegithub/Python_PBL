@@ -34,28 +34,6 @@ spam_guard/
 │   ├── data_preprocessing.ipynb
 │   ├── exploratory_data_analysis.ipynb
 │   ├── data_vectorizer.ipynb
-│   ├── ensemble_build.ipynb
-│   ├── ensemble_testing.ipynb
-│   ├── model_training.ipynb
-│   ├── model_testing.ipynb
-├── vectors/                    # Located in Google Drive link
-│   ├── tfdif_vectorizer.pkl
-│   ├── x_training_vector.pkl
-│   ├── x_testing_vector.pkl
-│   ├── y_training_vector.pkl
-│   ├── y_testing_vector.pkl
-├── reports/
-│   ├── model_report.csv
-│   ├── ensemble_report.txt
-├── models/
-│   ├── ensemble_model.pkl
-│   ├── model_KNN.pkl
-│   ├── model_Logistic Regression.pkl
-│   ├── model_Random Forest.pkl
-│   ├── model_Ridge Classifier.pkl
-│   ├── model_SVM Poly.pkl
-│   ├── model_SVM RBF.pkl
-│   ├── sel.pkl  
 ├── data.csv
 ├── training_data.csv
 ├── testing_data.csv
@@ -66,9 +44,4 @@ spam_guard/
 ├── data_preprocessing.py
 ├── exploratory_data_analysis.py
 ├── data_vectorizer.py
-├── model_training.py
-├── model_testing.py
-├── ensemble_build.py
-├── ensemble_testing.py
-└── main.py                       # Actual program for SpamGuard CLI
 ```
