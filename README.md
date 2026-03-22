@@ -4,7 +4,7 @@ Spam_Guard is an advanced, end-to-end Machine Learning pipeline designed to clas
 
 ### 📊 Datasets | Vectors | Models
 The training and testing data, vectors and models can be accessed here:
- [Datasets, Vectors & Models GDrive Link](https://drive.google.com/drive/folders/1shLSOE1EYRTy2UHwHtoRO7ChuDIq83Wk?usp=drive_link)
+ [Datasets GDrive Link](https://drive.google.com/drive/folders/1shLSOE1EYRTy2UHwHtoRO7ChuDIq83Wk?usp=sharing)
 
 ---
 
